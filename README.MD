@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pakhivashis182001@gmail.com.**
 
-- ⚡ Hobbies **UI/UX, playing games, solving puzzles.**
+- ⚡ Hobbies **designing, learning, scrapbooking, solving puzzles.**
 
 ## 🚀 Languages and Tools:
 
