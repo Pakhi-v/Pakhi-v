@@ -1,4 +1,4 @@
-<h1 align="center"><a href="#"><img width="50%" height="250" src="hello.gif"></a>
+<h1 align="center"><a href="#"><img width="150%" height="300" src="hello.gif"></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm PakhiV</h1>
 <h3 align="center">I'm a passionate student and upcoming developer from India.</h3>
