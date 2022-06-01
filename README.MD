@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects.**
 
-- 📝 I regularly write articles [on](on)
-
 - 📫 How to reach me **pakhivashis182001@gmail.com**
 
 - ⚡ Hobbies **UI/UX, playing games, solving puzzles.**
