@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate student and upcoming developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pakhi-v&label=Profile%20views&color=0e75b6&style=flat" alt="pakhi-v" /> </p>
-<img align="right" alt="GIF" src="hello.gif" width="400"/>
+<img align="right" alt="GIF" src="hello.gif" width="300"/>
 
 - 🔭 I’m currently working on **Full stack development.**
 
