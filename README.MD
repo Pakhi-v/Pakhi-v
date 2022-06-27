@@ -4,15 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pakhi-v&label=Profile%20views&color=0e75b6&style=flat" alt="pakhi-v" /> </p>
 <img align="right" alt="GIF" src="hello.gif" width="400"/>
 
-- 🔭 I’m currently working on **Full stack development.**
+- 🔭 I’m currently Focusing on **Exploring new technologies.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Full stack development.**
 
 - 👯 I’m looking to collaborate on **Open Source projects.**
 
 - 📫 How to reach me **pakhivashis182001@gmail.com**
 
-- ⚡ Hobbies **UI/UX, playing games, solving puzzles.**
+- ⚡ Hobbies **Designing, Reading, Writing, solving puzzles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
