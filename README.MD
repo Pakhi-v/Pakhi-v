@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pakhivashis182001@gmail.com**
 
-- ⚡ Hobbies **Designing, Reading, Writing, solving puzzles.**
+- ⚡ Hobbies **Designing, Reading, Writing, solving puzzles, Painting.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
