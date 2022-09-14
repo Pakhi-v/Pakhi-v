@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full stack development.**
 
-- 👯 I’m looking to collaborate on **Open Source projects.**
+- 👯 I’m looking to collaborate on **Open Source Projects.**
 
 - 📫 How to reach me **pakhivashis182001@gmail.com**
 
