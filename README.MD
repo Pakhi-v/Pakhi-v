@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently Focusing on **Exploring new technologies**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
 - 👨‍💻 All of my projects are available at [https://pakhi-v.github.io/My_Portfolio/](https://pakhi-v.github.io/My_Portfolio/)
 
-- 💬 Ask me about **Tech stuff**
+- 💬 Ask me about **Tech stuff.**
 
 - 📫 How to reach me **pakhivashis182001@gmail.com**
 
