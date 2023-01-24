@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pakhi-v&label=Profile%20views&color=0e75b6&style=flat" alt="pakhi-v" /> </p>
 <img align="right" alt="GIF" src="hello.gif" width="400"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pakhi-v" alt="pakhi-v" /></a> </p>
-
 - 🔭 I’m currently Focusing on **Exploring new technologies**
 
 - 🌱 I’m currently learning **Data Science.**
