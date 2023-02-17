@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
-- 👨‍💻 All of my projects are available at [https://pakhi-v.github.io/My_Portfolio/](https://pakhi-v.github.io/My_Portfolio/)
+- 👨‍💻 Check out my portfolio available at [https://pakhi-v.github.io/My_Portfolio/](https://pakhi-v.github.io/My_Portfolio/)
 
 - 💬 Ask me about **Tech stuff.**
 
