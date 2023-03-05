@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PakhiV</h1>
-<h3 align="center">I'm a passionate student and upcoming Software Developer from India</h3>
+<h3 align="center">I'm a passionate student and upcoming Software Developer from India.</h3>
 
 [![@vaspakhee_1807's Holopin board](https://holopin.me/vaspakhee_1807)](https://holopin.io/@vaspakhee_1807)
 
