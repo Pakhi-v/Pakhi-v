@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Focusing on **Exploring new technologies**
 
-- 🌱 I’m currently learning **Full stack development.**
+- 🌱 I’m currently learning **Data structures and Algorithms & Web development.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
