@@ -3,7 +3,7 @@
 
 [![@vaspakhee_1807's Holopin board](https://holopin.me/vaspakhee_1807)](https://holopin.io/@vaspakhee_1807)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pakhi-v&label=Profile%20views&color=0e75b6&style=flat" alt="pakhi-v" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pakhi-v&label=Profile%20views&color=0e75b6&style=flat" alt="pakhi-v"> </p>
 <img align="right" alt="GIF" src="hello.gif" width="400"/>
 
 - 🔭 I’m currently Focusing on **Exploring new technologies.**
